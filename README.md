@@ -1,0 +1,2 @@
+# Northstarapplication
+run npm start
